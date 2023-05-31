@@ -1,8 +1,8 @@
 # Python Repository
 _Links for learning the Python programming language_
 
-An introductory course: https://github.com/python-can-define-radio/python-course
-Try starting in the "classroom_activities" folder
+An introductory course: https://github.com/python-can-define-radio/python-course . 
+Try starting in the "classroom_activities" folder.
  
  
 ### Extras
